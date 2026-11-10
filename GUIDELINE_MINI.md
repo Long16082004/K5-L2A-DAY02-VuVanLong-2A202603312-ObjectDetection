@@ -6,8 +6,8 @@
 
 | Lớp | Định nghĩa của bạn | Ví dụ/điểm phân biệt |
 | --- | --- | --- |
-| `car` |Xe ô tô con, chủ yếu dùng để chở người, thường có 4–7 chỗ ngồi.| Sedan, hatchback, SUV, xe bán tải không thuộc lớp này. Phân biệt với van dựa vào thiết kế thân xe và mục đích sử dụng.|
-| `truck` | Xe tải dùng để vận chuyển hàng hóa, thường có cabin và thùng hàng hoặc khu vực chở hàng riêng.| Xe tải thùng, xe ben, xe đầu kéo, xe bán tải (pickup). Phân biệt với van ở kết cấu và kiểu thân xe.|
+| `car` |Xe ô tô con, chủ yếu dùng để chở người, thường có 4–7 chỗ ngồi.| Sedan, hatchback, SUV, taxi, xe bán tải (pickup/cabin nhỏ). Phân biệt với van dựa vào thiết kế thân xe và mục đích sử dụng.|
+| `truck` | Xe tải dùng để vận chuyển hàng hóa, thường có cabin và thùng hàng hoặc khu vực chở hàng riêng.| Xe tải thùng, xe ben, xe đầu kéo. Xe bán tải (pickup) không thuộc lớp này mà thuộc `car`. Phân biệt với van ở kết cấu và kiểu thân xe.|
 | `bus` | Xe được thiết kế để vận chuyển nhiều hành khách, thường có nhiều hàng ghế và kích thước lớn.| Xe buýt công cộng, xe khách, xe đưa đón học sinh. Phân biệt với van dựa vào thiết kế và chức năng chở khách.|
 | `van` | Xe dạng thân hộp, khoang cabin và khoang chở người/hàng thường nằm trong một thân xe liền khối| Xe tải van, xe giao hàng dạng van, xe minivan. Phân biệt với truck ở thiết kế thân xe và với bus ở cấu trúc, quy mô chở khách.|
 
